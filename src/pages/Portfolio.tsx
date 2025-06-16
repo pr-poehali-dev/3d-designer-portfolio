@@ -17,51 +17,51 @@ const Portfolio = () => {
   const projects = [
     {
       id: 1,
-      title: "Фантастический воин",
+      title: "Киберпанк Воин",
       software: "3dmax",
       image:
-        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500&h=600&fit=crop",
-      description: "Детализированный персонаж в стиле sci-fi",
+        "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=500&h=600&fit=crop",
+      description: "Боевой киборг с неоновыми имплантами и броней",
     },
     {
       id: 2,
-      title: "Мифическое существо",
+      title: "Космический Морпех",
       software: "blender",
       image:
-        "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=500&h=600&fit=crop",
-      description: "Создание в Blender с продвинутыми материалами",
+        "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=500&h=600&fit=crop",
+      description: "Элитный солдат межгалактических войск",
     },
     {
       id: 3,
-      title: "Робот-андроид",
+      title: "Инопланетный Хищник",
       software: "cinema4d",
       image:
-        "https://images.unsplash.com/photo-1546776230-bb986bc67324?w=500&h=600&fit=crop",
-      description: "Высокодетализированный робот в Cinema 4D",
+        "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=500&h=600&fit=crop",
+      description: "Зловещее существо с далекой планеты",
     },
     {
       id: 4,
-      title: "Средневековый рыцарь",
+      title: "Боевой Андроид",
       software: "maya",
       image:
-        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500&h=600&fit=crop",
-      description: "Классический персонаж, созданный в Maya",
+        "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=500&h=600&fit=crop",
+      description: "Высокотехнологичный робот-защитник",
     },
     {
       id: 5,
-      title: "Космический пилот",
+      title: "Биомеханический Мутант",
       software: "3dmax",
       image:
-        "https://images.unsplash.com/photo-1614728263952-84ea256f9679?w=500&h=600&fit=crop",
-      description: "Футуристический персонаж в 3D Max",
+        "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=500&h=600&fit=crop",
+      description: "Гибрид человека и машины из будущего",
     },
     {
       id: 6,
-      title: "Мистический маг",
+      title: "Квантовый Маг",
       software: "blender",
       image:
-        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500&h=600&fit=crop",
-      description: "Магический персонаж с эффектами в Blender",
+        "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=500&h=600&fit=crop",
+      description: "Мистический персонаж с энергетическими способностями",
     },
   ];
 
